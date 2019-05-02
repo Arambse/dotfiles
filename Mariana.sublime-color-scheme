@@ -1,0 +1,20 @@
+{
+    "variables":
+    {
+        "warn": "gold",
+        "err": "red"
+    },
+    "rules":
+    [
+        {
+            "name": "Warnings",
+            "scope": "markup.warning",
+            "background": "color(var(warn) alpha(0.2)",
+        },
+                {
+            "name": "Errors",
+            "scope": "markup.error",
+            "background": "color(var(err) alpha(0.2)",
+        },
+    ]
+}

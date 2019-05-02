@@ -1,0 +1,5 @@
+// SublimeLinter Settings - User
+{
+  "lint_mode": "save",
+  "styles": [{"mark_style" :"fill"}],
+}

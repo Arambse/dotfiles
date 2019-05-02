@@ -1,0 +1,8 @@
+{
+  // Turns on/off autoformatting on save
+  "auto_format_on_save": true,
+  "prettier_options": {
+    "singleQuote":true,
+    "trailingComma": "all",
+  }
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "keys": ["alt+up"], "command": "move_amount",
+    "args": {"by": "lines", "amount": 10, "forward": false}
+},
+{
+    "keys": ["alt+down"], "command": "move_amount",
+    "args": {"by": "lines", "amount": 10, "forward": true}
+},
+]
